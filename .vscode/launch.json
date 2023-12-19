@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "armstrong_Number",
+      "request": "launch",
+      "mainClass": "armstrong_Number",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
       "name": "armstrong",
       "request": "launch",
       "mainClass": "armstrong",
