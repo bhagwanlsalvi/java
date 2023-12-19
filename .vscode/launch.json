@@ -1,0 +1,234 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "armstrong",
+      "request": "launch",
+      "mainClass": "armstrong",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "interfaces",
+      "request": "launch",
+      "mainClass": "interfaces",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "SupperKeyWord",
+      "request": "launch",
+      "mainClass": "SupperKeyWord",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "swap",
+      "request": "launch",
+      "mainClass": "swap",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "scner",
+      "request": "launch",
+      "mainClass": "scner",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "holle",
+      "request": "launch",
+      "mainClass": "holle",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "srting_equals_method",
+      "request": "launch",
+      "mainClass": "srting_equals_method",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "len",
+      "request": "launch",
+      "mainClass": "len",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "Shifting",
+      "request": "launch",
+      "mainClass": "Shifting",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "RightShift",
+      "request": "launch",
+      "mainClass": "RightShift",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "concat",
+      "request": "launch",
+      "mainClass": "concat",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "string_contructor",
+      "request": "launch",
+      "mainClass": "string_contructor",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "methodOverwrite",
+      "request": "launch",
+      "mainClass": "methodOverwrite",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "methodOvering",
+      "request": "launch",
+      "mainClass": "methodOvering",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "methodpro",
+      "request": "launch",
+      "mainClass": "methodpro",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "Method",
+      "request": "launch",
+      "mainClass": "Method",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "Arraypro",
+      "request": "launch",
+      "mainClass": "Arraypro",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "forloop",
+      "request": "launch",
+      "mainClass": "forloop",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "lower",
+      "request": "launch",
+      "mainClass": "lower",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "month",
+      "request": "launch",
+      "mainClass": "month",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "evenandodd",
+      "request": "launch",
+      "mainClass": "evenandodd",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "bitwisepro",
+      "request": "launch",
+      "mainClass": "bitwisepro",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "inputfrmuser",
+      "request": "launch",
+      "mainClass": "inputfrmuser",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "scner",
+      "request": "launch",
+      "mainClass": "scner",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "prefix_postfix",
+      "request": "launch",
+      "mainClass": "prefix_postfix",
+      "projectName": "java_4d24d753"
+    },
+    {
+      "type": "java",
+      "name": "booleanpro",
+      "request": "launch",
+      "mainClass": "booleanpro",
+      "projectName": "java_ff0e0552"
+    },
+    {
+      "type": "java",
+      "name": "typeCasting",
+      "request": "launch",
+      "mainClass": "typeCasting",
+      "projectName": "java_ff0e0552"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_ff0e0552"
+    },
+    {
+      "type": "java",
+      "name": "uniray",
+      "request": "launch",
+      "mainClass": "uniray",
+      "projectName": "java_ff0e0552"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/lenovo/Desktop/java",
+      "program": "c:/Users/lenovo/Desktop/java/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
