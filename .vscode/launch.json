@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Fabonice_Series",
+      "request": "launch",
+      "mainClass": "Fabonice_Series",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
       "name": "armstrong_Number",
       "request": "launch",
       "mainClass": "armstrong_Number",
