@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Palandrom",
+      "request": "launch",
+      "mainClass": "Palandrom",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
       "name": "Fabonice_Series",
       "request": "launch",
       "mainClass": "Fabonice_Series",
