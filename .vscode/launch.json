@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "partten5",
+      "request": "launch",
+      "mainClass": "partten5",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "demostrate_operator_precedence",
+      "request": "launch",
+      "mainClass": "demostrate_operator_precedence",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "hello",
+      "request": "launch",
+      "mainClass": "hello",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
+      "name": "student",
+      "request": "launch",
+      "mainClass": "student",
+      "projectName": "java_3d6d28ea"
+    },
+    {
+      "type": "java",
       "name": "Palandrom",
       "request": "launch",
       "mainClass": "Palandrom",
